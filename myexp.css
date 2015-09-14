@@ -1,0 +1,333 @@
+
+/* Beginning of pill styling */
+
+.navtab a {
+color: #fff;
+font-size: 18px;
+font-weight: bold;
+padding-top: 14px;
+padding-bottom: 14px;
+padding-left: 10px;
+padding-right: 10px;
+text-transform: uppercase;
+}
+
+
+.jumbotron h2 {
+color: #fff;
+font-size: 62px;
+font-weight: bold;
+font-family: 'Shift', sans-serif;
+    
+    
+}
+
+.jumbotron h3 {
+font-family: 'Arial', sans-serif;
+color: #fff;
+font-size: 30px;
+font-style: italic;
+margin-top: 40px;
+}
+
+.jumbotron .container{
+position: relative;
+text-align: center;
+}
+
+.navtab li{
+display: inline;
+}
+
+.centered-pills {
+text-align: center;
+}
+
+.centered-pills ul {
+display: inline-block;
+}
+
+.centered-pills li {
+display:inline; 
+    padding: 0px;
+    margin-left: 3px;
+    margin-right: 3px;
+    top:210px;
+    border: 3px solid #fff;
+}
+
+.centered-pills a {
+float: left;
+}
+
+* html .centered-pills ul.nav-pills { display:inline; } /* IE6 */
+*+html .centered-pills ul.nav-pills { display:inline; } /* IE7 */
+
+
+
+.jumbotron {
+    background-color: #3E57AD;
+    background-image: url("Modern%20City%20Color%202.0.jpg"); /* http://www.tmglobalist.org/libraries/ckeditor/plugins/kcfinder/upload/images/Jakarta_Skyline.jpg */      
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 1000px;
+   
+}
+
+.jumbotron h2, h3 {
+position: relative;
+    text-align: center;
+    top: px;
+    font-family: Arial;
+}
+
+.btn{
+border-radius: 0px;
+}
+
+/* sqauares pills, from stack overflow */
+.nav-pills > li > a {
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+border-radius: 0;
+}
+
+ul.nav a:hover { 
+
+color: #c4b6b6 !important;
+background-color: #fff; 
+}
+
+
+.right-pills ul {
+display: inline-block;  
+}
+
+.container1{
+text-align: right;
+}
+
+.right-pills {
+margin-top: 200px;
+top: 100px;
+margin-right: 50px;
+display: inline-block;
+}
+
+.right-pills li {
+    display:inline; 
+    padding: 0px;
+    margin-left: 3px;
+    margin-right: 3px;
+    border: 3px solid #fff;
+}
+
+.right-pills .different{
+margin-top: 3px;
+padding: 0px;
+border: 0px;
+
+}
+
+.downlist li{
+    float: right;
+    clear: both;
+    width: 130px;
+}
+.whatthef li{
+display: block;
+margin-top: 35px;
+margin-bottom: 35px;
+    text-align: center;;
+    margin-right: 50px;
+}
+
+.whatthef a:hover{
+    color: #c4b6b6 !important;
+    text-decoration: none;
+}
+
+ul.nav .different a:hover { 
+
+color: #fff !important;
+    background-color: transparent;
+
+}
+
+.jumbotron img{
+float: left;
+position: relative;
+top: -15px;
+left: 30px;
+}
+
+.jumobrton img a:hover{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* end of pill styling */
+
+
+
+
+.header {
+height: 225px;
+}
+.header p{
+text-align: center;
+font-weight: bold;
+font-family: Arial Black;
+font-size: 36px;
+position: relative;
+top: 125px;
+}
+
+.image{
+text-align: center;
+}
+
+.info{
+    heigh: 100px;
+    
+}
+
+.info p {
+font-family: Arial;
+font-size: 24px;
+    text-align: center;
+    position: relative;
+    top: 25px;
+    font-weight: bold;
+    margin: 0px
+}
+
+hr { 
+    color: #9e9e9e;
+    display: block;
+    margin-left: 19.53%;
+    margin-right: 20.8%;
+    margin-top: 150px;
+    margin-bottom: 0px;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.content-title{
+    margin-top: 150px;
+    font-family: Arial Black;
+font-size: 50px;
+    text-transform: bold;
+}
+
+.left1 {
+margin-left: 19.53%;
+}
+
+.right1 {
+margin-right: 31.66%;
+}
+
+.right2 {
+margin-right: 20.8%;
+
+}
+
+.left2{
+margin-left: 31.66%;
+}
+
+.mycontent{
+    font-size: 20px;
+    font-family: Calibri, "san-serif";
+}
+
+.footer {
+height: 540px;
+background-color: black;
+}
+
+.footer p{
+text-align: center;
+position: relative;
+top: 240px;
+color: #fff;
+font-size: 14px;
+font-family: Calibri, sans-serif;
+}
+
+.help p{
+margin-bottom: 150px;
+}
+
+.purple{
+    margin-top: 150px;
+    height: 150px;
+background-color: #3E57AD;
+}
+
+.orange{
+    margin-top: 150px;
+    height: 150px;
+background-color: #efe92d;
+}
+
+
+.section{
+    color: black;
+    font-family: Arial Black;
+font-size: 35px;
+    text-transform: bold;
+}
+
+#myDiv {
+position: relative;
+    background-color: #fff;
+float: left;
+bottom: 50px;
+color: #ff3030;
+}
+
+.highschool{
+color: #black;
+}
+
+.school {
+    color: #3E57AD;
+}
+
+.yellow {
+color: #efe92d;
+    font-family: Arial Black;
+font-size: 35px;
+    text-transform: bold;
+}
+
+#myDiv p {
+    font-size: 48px;
+    font-family: 'Georgia' , sans-serif;
+    padding: 0px;
+    margin: 0px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
