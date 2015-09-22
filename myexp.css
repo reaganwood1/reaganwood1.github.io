@@ -139,11 +139,11 @@ border: 0px;
 display: block;
 margin-top: 35px;
 margin-bottom: 35px;
-    text-align: center;;
+    text-align: center;
     margin-right: 50px;
 }
 
-.whatthef a:hover{
+a:hover{
     color: #c4b6b6 !important;
     text-decoration: none;
 }
