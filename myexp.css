@@ -78,7 +78,7 @@ float: left;
 .jumbotron h2, h3 {
 position: relative;
     text-align: center;
-    top: px;
+    top: 190px;
     font-family: Arial;
 }
 
@@ -109,7 +109,7 @@ text-align: right;
 }
 
 .right-pills {
-margin-top: 200px;
+margin-top: 5px;
 top: 100px;
 margin-right: 50px;
 display: inline-block;
@@ -130,29 +130,20 @@ border: 0px;
 
 }
 
+.right-pills .different a:hover{
+    background-color: transparent
+}
+
 .downlist li{
     float: right;
     clear: both;
     width: 130px;
 }
-.whatthef li{
-display: block;
-margin-top: 35px;
-margin-bottom: 35px;
-    text-align: center;
-    margin-right: 50px;
-}
+
 
 a:hover{
     color: #c4b6b6 !important;
     text-decoration: none;
-}
-
-ul.nav .different a:hover { 
-
-color: #fff !important;
-    background-color: transparent;
-
 }
 
 .jumbotron img{
